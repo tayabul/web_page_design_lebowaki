@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+.navbar-inverse .navbar-brand {
+    font-family: 'Lobster', cursive;
+    color: #c8c8c8;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: #c8c8c8;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #b0c8c8;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color: #000000;
+}
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    color: #ffffff;
+    background-color: transparent;
+}
+
+#main{
+    margin-top: 25px;
+}
+.panel-default > .panel-heading{
+    font-size: 25px;
+}
+h2{
+    font-family: 'Lobster', cursive;
+}
+
+.nav-tabs.nav-justified > li > a{
+    border: none;
+}

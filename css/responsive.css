@@ -1,0 +1,59 @@
+@media (min-width: 280px) and (max-width: 450px){
+    h1 {
+        font-size: 14px;
+
+    }
+}
+
+@media (max-width: 280px){
+
+    h1 {
+        font-size: 16px;
+    }
+    p{
+        font-size: 14px;
+    }
+    .carousel-indicators li {
+        width: 6px;
+        height: 6px;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .carousel-indicators li {
+        width: 6px;
+        height: 6px;
+    }
+    .carousel-indicators .active {
+        width: 6px;
+        height: 6px;
+    }
+    .carousel-indicators {
+        bottom: -6px;
+    }
+    .carousel-caption {
+        bottom: -2px;
+    }
+
+    body {
+        font-size: 12px;
+    }
+    .panel-default > .panel-heading {
+        font-size: 23px;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+
+
+}
+
+@media (min-width: 280px) and (max-width: 450px){
+    .navbar-brand {
+        font-size: 15px;
+
+}
+
+
